@@ -1,0 +1,17 @@
+.x_axis text,.y_axis text {
+	font-size: 13pt;
+	fill: #281730;
+}	
+h1{
+	font: 15px sans-serif;
+	text-align: center;
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: #281730;
+	font-size: 20pt;
+	background-color: #b438ed;
+	border-radius: 4px;
+	padding: 4px;
+}
